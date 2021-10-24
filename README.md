@@ -1,9 +1,5 @@
-# Demo 
+# Demo
 
-To começando a aprender a usar o Vim e o github
+- Teste de vim e estudando mais sobre GitHu
 
-É bem interessante usar esse editor... :D
-
-
-
-
+I know how to push modifications
